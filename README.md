@@ -45,8 +45,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshu552003/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:himanshu552003@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/himanshu-yadav-565829263"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yadavhimanshu552003@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
