@@ -10,7 +10,7 @@
 🎓 AI & Data Science student (AISSMS IOIT, Pune)  
 💡 Passionate about **Machine Learning, Data Visualization & Full-Stack Development**  
 📊 Building **dashboards, recommender systems, and ML projects**  
-🌱 Currently learning **MLOps & deployment of ML pipelines**
+
 
 ---
 
