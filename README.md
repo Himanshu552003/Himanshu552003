@@ -38,7 +38,7 @@
 ## 📂 Featured Projects
 - 🔹 **[LeetLab](https://github.com/Himanshu552003/LeetLab)** → Competitive programming platform like LeetCode  
 - 🔹 **[Retail Sales Dashboard](https://github.com/Himanshu552003/Retail-Sales-Dashboard)** → Power BI analysis of retail sales  
-- 🔹 **[Book Recommender](https://github.com/Himanshu552003/Book-Recommender)** → NLP + semantic search-based recommendation system  
+- 🔹 **[Semantic Book Recommender](https://github.com/Himanshu552003/Semantic-Book-Recommender)** → NLP + semantic search-based recommendation system  
 - 🔹 **[Insurance Data Analysis](https://github.com/Himanshu552003/Insurance-Analysis)** → Exploratory data analysis with insights
 
 ---
