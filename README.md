@@ -18,7 +18,7 @@
 - **Languages**: Python, JavaScript, SQL, Java, C++
 - **Data/ML**: Pandas, NumPy, Scikit-learn, TensorFlow, NLP
 - **Visualization**: Power BI, Matplotlib, Seaborn
-- **Web/Tools**: Git, Linux, Flask, Node.js, Django, EXpress js 
+- **Web/Tools**: Git, Linux, Flask, Node.js, Django, Express js 
 
 ---
 
