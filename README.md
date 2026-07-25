@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, SQL, Java, C++
+- **Languages**: Python, JavaScript, SQL, C++
 - **Data/ML**: Pandas, NumPy, Scikit-learn, TensorFlow, NLP
 - **Visualization**: Power BI, Matplotlib, Seaborn
 - **Web/Tools**: Git, Linux, Flask, Node.js, Django, Express js 
